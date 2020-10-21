@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct  8 19:42:50 2020
-
-@author: Ty
-"""
 from Question import Question
 
 question_prompts = [
